@@ -1,0 +1,10 @@
+https://www.kaggle.com/someadityamandal/bitcoin-time-series-forecasting
+https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c
+https://github.com/Pierian-Data/AutoArima-Time-Series-Blog/blob/master/Forecasting%20a%20Time%20Series%20in%20Python.ipynb
+https://towardsdatascience.com/time-series-decomposition-and-statsmodels-parameters-69e54d035453
+https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+https://machinelearningmastery.com/time-series-data-stationary-python/
+https://towardsdatascience.com/3-ways-to-compute-a-weighted-average-in-python-4e066de7a719
+https://towardsdatascience.com/time-series-decomposition-and-statsmodels-parameters-69e54d035453
+https://github.com/amitrani6/time-series-examples/blob/master/time_series_removing_trends_and_decomposition.ipynb
+https://machinelearningmastery.com/time-series-data-stationary-python/
